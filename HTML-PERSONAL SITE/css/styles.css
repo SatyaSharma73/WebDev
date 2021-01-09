@@ -1,5 +1,5 @@
 body {
-  background-color: #008891;
+  background-color: #f37121;
 }
 
 hr {
@@ -7,16 +7,43 @@ hr {
   border-style: none;
   border-top-style: dotted;
   width: 20%;
-  border-color:#fad586;
+  border-color:#c0e218;
   border-width:5px
 
 }
+img:hover{
+  background-color:gold;
+
+}
 h1{
-  color:#0f3057
+  color:#111d5e
 }
 h2{
-  color:#0f3057
+  color:#111d5e
 }
 h3{
-  color:#0f3057
+  color:#111d5e
 }
+
+em{
+  color: #58391c;
+}
+ul {
+  color: #58391c;
+}
+/* class Selector */
+/*
+.home-image{
+  background-color:#111d5e;
+}
+.circular{
+  border-radius: 100%;
+
+}
+.cont-image{
+  background-color: white;
+}
+
+#heading{
+  color: white;
+} */
